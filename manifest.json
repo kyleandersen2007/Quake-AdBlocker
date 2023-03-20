@@ -1,0 +1,13 @@
+{
+    "name": "Quake Adblocker",
+    "version": "1.0",
+    "description": "description",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["index.js"]
+    },
+    "icons": {
+        
+    },
+    "manifest_version": 2
+}
